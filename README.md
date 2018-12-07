@@ -1,2 +1,2 @@
 # OpenGLPortfolio
-This repository consists of OpenGL animations created for Computer Graphics coursework.
+A repository consisting of OpenGL animations created for Computer Science coursework
